@@ -29,9 +29,4 @@ Everything here is created **purely by human effort**, through thinking, practic
 - Real-world logic and experimentation  
 - Continuous growth over time  
 
-## Why This Exists
 
-This repository exists as:
-- Proof of work  
-- A record of discipline and consistency  
-- A space where craftsmanship matters  
