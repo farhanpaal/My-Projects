@@ -3,9 +3,9 @@
 ## Project Levels
 
 This repository contains three types of projects based on complexity and depth:
-- **Mini Projects** – Small builds focused on fundamentals and core concepts  
-- **Intermediate Projects** – Structured projects combining multiple ideas and logic  
-- **Advanced Projects** – In-depth builds solving real-world problems with solid architecture  
+- **Mini Projects** : Small builds focused on fundamentals and core concepts  
+- **Intermediate Projects** : Structured projects combining multiple ideas and logic  
+- **Advanced Projects** : In-depth builds solving real-world problems with solid architecture  
 
 ## About This Repository
 
