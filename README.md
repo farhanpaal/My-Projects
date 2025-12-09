@@ -1,5 +1,12 @@
 # 🧱 Brick by Brick Projects
 
+## Project Levels
+
+This repository contains three types of projects based on complexity and depth:
+- **Mini Projects** – Small builds focused on fundamentals and core concepts  
+- **Intermediate Projects** – Structured projects combining multiple ideas and logic  
+- **Advanced Projects** – In-depth builds solving real-world problems with solid architecture  
+
 ## About This Repository
 
 This repository is a collection of projects I’ve built manually, brick by brick.  
@@ -15,8 +22,6 @@ Everything here is created **purely by human effort**, through thinking, practic
 - Quality over quantity  
 - Human creativity over automation  
 
-Each project represents a step in my journey as a developer — mistakes included, lessons earned.
-
 ## What You’ll Find Here
 
 - Completed projects only  
@@ -30,5 +35,3 @@ This repository exists as:
 - Proof of work  
 - A record of discipline and consistency  
 - A space where craftsmanship matters  
-
-If you’re reading this, explore freely — and build something yourself.
